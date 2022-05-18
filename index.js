@@ -94,7 +94,7 @@ async function getUser() {
 }
 
 getUser().then(user => {
-    console.log(user)
+
     userProfileEl.innerHTML = `
     <div class="user-profile">
         <div class="user-profile-header">

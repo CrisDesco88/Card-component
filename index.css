@@ -153,8 +153,10 @@ body {
     display:flex;
     margin-top: 2em;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content:center;
 }
+
+
 
 .my-photo {
     border: 0.1rem solid white;
